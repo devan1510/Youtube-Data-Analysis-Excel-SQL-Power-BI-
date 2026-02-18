@@ -1,7 +1,7 @@
 Youtube Analytics Dashboard – Power BI & SQL
 📌 Project Overview
 
-This project demonstrates an end-to-end data analytics workflow where raw, unstructured HR data is transformed into meaningful insights. The focus is on building a robust analytics pipeline using industry-standard tools and best practices.
+This project demonstrates an end-to-end data analytics workflow where raw, unstructured youtube data is transformed into meaningful insights. The focus is on building a robust analytics pipeline using industry-standard tools and best practices.
 
 The project covers data ingestion, exploration, cleaning, validation, analysis, and visualization.
 

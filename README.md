@@ -1,15 +1,16 @@
 Youtube Analytics Dashboard – Power BI, SQL, Excel
-📌 Project Overview
+
+**📌 Project Overview**
 
 This project demonstrates an end-to-end data analytics workflow where raw, unstructured youtube data is transformed into meaningful insights. The focus is on building a robust analytics pipeline using industry-standard tools and best practices.
 
 The project covers data ingestion, exploration, cleaning, validation, analysis, and visualization.
 
-🎯 Objective
+**🎯 Objective**
 
 To analyze youtube data and uncover insights related to subscriber count total views total videos, and engagement metrics, while showcasing strong skills in data cleaning, SQL analysis, and dashboard development.
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
 Excel – Initial data exploration and analysis
 
@@ -20,7 +21,7 @@ Power BI – Interactive dashboards and data visualization
 DAX – Calculated measures and KPIs
 
 
-🔄 Project Workflow
+**🔄 Project Workflow**
 
 Data sourced from Kaggle
 
@@ -40,7 +41,7 @@ Build dashboards using DAX and visuals
 
 Generate insights and business findings
 
-📊 Key Features
+**📊 Key Features**
 
 End-to-end analytics pipeline
 

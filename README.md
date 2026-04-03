@@ -41,16 +41,4 @@ Build dashboards using DAX and visuals
 
 Generate insights and business findings
 
-**📊 Key Features**
 
-End-to-end analytics pipeline
-
-Data quality checks and testing in SQL
-
-Use of SQL views and CTEs
-
-scorecards and interactive visuals
-
-ROI analysis validated in SQL and Excel
-
-Portfolio-ready Power BI dashboard
